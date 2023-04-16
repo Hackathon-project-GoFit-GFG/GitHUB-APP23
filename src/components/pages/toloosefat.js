@@ -1,41 +1,67 @@
 import React from "react";
-
-const Fitness=()=>{
+const Ref=()=>{
     return (
         <div>
-            <h1>Workouts</h1>
-            <p>Whether you’re a seasoned expert or new to strength training, working out at home is a great option when you can’t get to the gym or need a change of pace.</p>
-        <p>The at-home workouts below require a limited amount of equipment. Plus, some of the movements can be substituted for bodyweight exercises in which you use your body’s own weight as resistance.
+            <h1>Top 8 Weight Loss Tips</h1>
+            <p>Diet and exercise may be key components of weight loss for women, but many other factors play a role.
 
-These exercises can serve as a weeklong beginner routine or be cycled to provide several sessions per week for advanced trainees.
+In fact, studies show that everything from sleep quality to stress levels can have a major impact on hunger, metabolism, body weight, and belly fat.
 
-If your goal is weight loss, you can add a form of cardio, such as running or cycling, between sessions.</p>
-
-<br>
-
-</br>
-
-
-<h3>Leg Pulses</h3>
-<p>To complete this move, lie on your side and flex both feet.
-Place your top hand on the ground in front of your stomach to steady yourself and your supporting arm under your head.
-Slowly lift your top leg up and make tiny pulses upward. Do this for 30 seconds on one leg and flip onto the other side and do 30 seconds on your other leg.
-This move will target your saddlebags and help slim your legs.</p>
+Fortunately, making a few small changes in your daily routine can bring big benefits when it comes to weight loss.</p>
 <br></br>
-<h3>Front Leg Raises</h3>
-<p>o complete this move, start on your side with your legs extended, flexing both feet. Place your top hand on the ground in front of your abs and your supporting arm under your head.
-Make sure to keep your bottom leg extended for the duration of the move. </p>
-<br></br>
-<h3>Back Leg Raises
-</h3>
-<p>To complete this move, start on your side with your legs extended, flexing both feet. Place your top hand on the ground in front of your abs and your supporting arm under your head.
-Make sure to keep your bottom leg extended for the duration of the move. </p>
-<br></br>
-<h3>Regular Leg Raises</h3>
-<p>To complete this move, lie on one side with your lower arm on the floor and your upper hand in front of your body for support.
-Bracing your abs, lift your upper leg up to the ceiling, or as high as you can reach, keeping your hips static.</p>
+<h3>1. Cut Down on Refined Carbs</h3>
+<ul>
+
+<li>
+Refined carbs undergo extensive processing, reducing the amount of fiber and micronutrients in the final product.
+
+These foods spike blood sugar levels, increase hunger, and are associated with increased body weight and belly fat 
+</li>
+</ul>
+<h3>2. Add Resistance Training to Your Routine</h3>
+<ul>
+<li>
+Resistance training builds muscle and increases endurance.
+
+It’s especially beneficial for women over 50, as it increases the number of calories that your body burns at rest. It also helps preserve bone mineral density to protect against osteoporosis
+</li></ul>
+<h3>3. Drink More Water</h3>
+<ul>
+    <li>Drinking more water is an easy and effective way to promote weight loss with minimal effort.
+
+According to one small study, drinking 16.9 ounces (500 ml) of water temporarily increased the number of calories burned by 30% after 30–40 minutes</li>
+</ul>
+<h3>4. Eat More Protein</h3>
+<ul>
+    <li>Protein foods like meat, poultry, seafood, eggs, dairy, and legumes are an important part of a healthy diet, especially when it comes to weight loss.
+
+In fact, studies note that following a high-protein diet can cut cravings, increase feelings of fullness, and boost metabolism</li>
+</ul>
+<h3>5. Set a Regular Sleep Schedule</h3>
+<ul>
+    <li>Studies suggest that getting enough sleep may be just as crucial to losing weight as diet and exercise.
+
+Multiple studies have associated sleep deprivation with increased body weight and higher levels of ghrelin, the hormone responsible for stimulating hunger</li>
+</ul>
+<h3>6. Do More Cardio</h3>
+<ul>
+    <li>Aerobic exercise, also known as cardio, increases your heart rate to burn extra calories.
+
+Studies show that adding more cardio to your routine can result in significant weight loss — especially when paired with a healthy diet </li>
+</ul>
+<h3>7. Keep a Food Journal</h3>
+<ul>
+    <li>Using a food journal to track what you eat is an easy way to hold yourself accountable, and make healthier choices.
+
+It also makes it easier to count calories, which can be an effective strategy for weight management </li>
+<h3>8. Fill up on Fiber</h3>
+<ul>
+    <li>Adding more fiber to your diet is a common weight loss strategy to help slow the emptying of your stomach and keep you feeling fuller for longer .
+
+Without making any other changes to diet or lifestyle, increasing dietary fiber intake by 14 grams per day has been associated with a 10% decrease in calorie intake and 4.2 pounds (1.9 kg) of weight loss over 3.8 months</li>
+</ul>
+</ul>
         </div>
     )
 }
-
-export default Fitness;
+export default Ref
